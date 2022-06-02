@@ -3,10 +3,10 @@ package BuildTools;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
-public class LibraryTest {
+public class UtilsTest {
     @Test
     public void someLibraryMethodReturnsTrue() {
-        Library classUnderTest = new Library();
+        Utils classUnderTest = new Utils();
         Assertions.assertTrue(classUnderTest.isPositiveNumber("1"));
     }
 }
