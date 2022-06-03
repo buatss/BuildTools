@@ -1,1 +1,4 @@
 /.idea/
+/api/build/
+/core/build/
+/.gradle/
